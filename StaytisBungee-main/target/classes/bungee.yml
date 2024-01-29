@@ -1,0 +1,3 @@
+name: StaytisBungee
+version: '1.0-SNAPSHOT'
+main: staytis.staytisbungee.StaytisBungee

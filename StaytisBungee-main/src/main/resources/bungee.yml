@@ -1,0 +1,3 @@
+name: StaytisBungee
+version: '${project.version}'
+main: staytis.staytisbungee.StaytisBungee
